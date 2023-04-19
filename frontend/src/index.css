@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: "Montserrat", sans-serif;
+  background-color: #f3f4f9;
+}
+
+.all_unset {
+  all: unset;
+  background-color: black;
+}

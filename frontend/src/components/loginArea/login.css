@@ -1,0 +1,29 @@
+body {
+  overflow: hidden;
+}
+
+@media (max-width: 576px) {
+  .auth_card {
+    width: 80% !important;
+  }
+}
+
+.login-with-google-btn {
+  background-color: white;
+  border-radius: 3px;
+  border: "2px solid";
+  border-color: "lightgray";
+
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+}
+
+.login-with-facebook-btn {
+  background-color: white;
+  border-radius: 3px;
+  border: "2px solid";
+  border-color: "lightgray";
+
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+}
